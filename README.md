@@ -1,0 +1,2 @@
+# blue
+repo untuk belajar
